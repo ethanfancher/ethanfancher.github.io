@@ -1,3 +1,3 @@
-# ethanfancher.github.io
+# Welcome to my Home page
 
-Welcome to my Home page This is where i will post my ePortfolio plan
+This is where I will post my ePortfolio plan.
