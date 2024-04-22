@@ -1,10 +1,10 @@
-# Ethan Fancher's ePortfolio Entry
+# Ethan Fancher's ePortfolio 
 
 ## Overview
 
 Welcome to my ePortfolio, where I present a comprehensive overview of my software development journey during my academic career. This portfolio encapsulates my technical growth, focusing on three distinct projects that highlight my capabilities in object-oriented programming, user interface design, data structures, and algorithm optimization. Each project is carefully chosen to demonstrate both the breadth and depth of my programming skills and problem-solving abilities.
 
-## Project 1: Object-Oriented Hierarchy for Vehicle Management
+## Enhancement 1: Object-Oriented Hierarchy for Vehicle Management
 
 ### Artifact Description
 
@@ -35,7 +35,7 @@ public class Bicycle extends TwoWheeled {
 - **Code Refactoring:** Improved the readability and maintainability of the code by refining and optimizing existing implementations, including adding comprehensive constructors and method overloading.
 - **Reflection:** Gained deeper insights into Java and object-oriented design, specifically how effective use of inheritance and polymorphism can create scalable software architectures. This enhancement also bolstered my debugging skills and my ability to implement user feedback to refine functionality.
 
-## Project 2: Java Swing Application for Detox Destinations
+## Enhancement 2: Java Swing Application for Detox Destinations
 
 ### Artifact Description
 
@@ -66,7 +66,7 @@ public void sortDestinations() {
 - **Algorithm Implementation:** Integrated a sorting algorithm to dynamically organize data, significantly enhancing the user experience by making information retrieval more intuitive.
 - **Reflection:** This project deepened my understanding of user interface design and the importance of aligning technical solutions with user needs. The feedback loop from users and peers was crucial for iterative development, leading to a more refined and user-focused application.
 
-## Project 3: Binary Search Tree for Bid Data Management
+## Enhancement 3: Binary Search Tree for Bid Data Management
 
 ### Artifact Description
 
